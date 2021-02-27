@@ -1,0 +1,19 @@
+Para ejecutar script son necesarias las dependencias contenidas en requirements.txt.
+
+
+Se pueden instalar a través de "pip" o en un environment manager como "conda" ou "virtualenv"
+
+
+Para utilizar el script:
+
+"python obtenerproyectos.py prmID_inicio prmID_final"
+
+
+donde "prmID_inicio" y "prmID_final" son los números de prmID inicial y final.
+
+por ejemplo:
+
+"python obtenerproyectos.py 13001 13252"
+
+
+Al final se generará un archivo result-13001-13252.xlsx
